@@ -1,0 +1,17 @@
+.transactionHistory {
+  width: 1090px;
+}
+
+.tableHead {
+  height: 60px;
+  background-color: #00bcd5;
+}
+
+.tableRow {
+  text-align: center;
+  height: 60px;
+}
+
+.tableRow:nth-child(2n) {
+  background-color: #ecf1f4;
+}
